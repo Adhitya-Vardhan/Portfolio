@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Developing smooth and interactive frontends using HTML, CSS, JavaScript, ReactJS, bootstrap , Typescript and even more"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Developing efficent and structured backend using Nodejs, ExpressJS, Mongodb, Sql ,NoSql, Postman, Apis, WebRtc"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I don't just code; I design intuitive and visually appealing interfaces. My goal is to create user-centric designs that elevate the overall experience."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "AWS",
+      "description": "With hands-on experience in AWS, I've navigated the cloud landscape to deploy scalable and secure applications, ensuring optimal performance."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Easy Go",
+      "description": "A web platform for college students to solve daily issues by increasing connectivity with peers",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Placement Cell",
+      "description": "Virtualised web based plaement system for institute for smooth flow of the placements in the institute",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "ecom",
+      "description": "An ecommerce plateform for selling and purchasing of wide varity of products online",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Your attention to detail really shines through in your work. Impressive!",
+      "author_name": "Eesha",
+      "author_designation": "Nividia"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "I appreciate the creativity you bring to the team. Your ideas are always refreshing.",
+      "author_name": "Rishik teja",
+      "author_designation": "Delloite"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Your ability to communicate complex ideas clearly has been a valuable asset to the team.",
+      "author_name": "Kesava",
+      "author_designation": "TA digital"
+    }
+  ]
+}
